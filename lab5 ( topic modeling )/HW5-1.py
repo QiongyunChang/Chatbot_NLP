@@ -76,7 +76,7 @@ for epoch in range(5):
 # ============================== Predictions==============================#
 
 # Last Night in Soho reviews 5 pos and 5 neg
-text = [
+texts = [
     "His riff on pulp Giallo thrillers from the sixties and seventies lack the bad taste that made them so celebrated.",
     "Wright's screenplay has a third act problem, where the revealing of the whats-and-hows aren't as interesting being lost in the whys.",
     "Unfortunately, as is too often the case with promising horror films, this one devolves into a disappointing mess toward the end.",
