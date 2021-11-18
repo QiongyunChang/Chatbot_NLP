@@ -5,6 +5,33 @@
 
 ![image](https://user-images.githubusercontent.com/51444652/141946507-6d965e2a-f82a-4985-9811-b0466c748df1.png)
 
+### Lab 3
+
+#### HW3-1 Entity Pairs & Relation Extraction
+- 將句子中的**Entity Pairs**和**Relation**利用中文的Spacy模型找出來，舉例來說，如果題目是`我撐起那把雨傘`，輸出答案便是
+###### Entity Pairs
+```
+['我', '雨傘']
+```
+###### Relation
+```
+撐起
+``` 
+- 找出下列句子中的**Entity Pairs**和**Relation**
+    - `警察逮捕那個嫌犯` 
+    - `我走進成功大學`
+    - `他放棄了這堂課`
+    
+#### HW3-2 NER
+請文本進行
+- 分句
+- Named Entity Recognition
+
+
+#### HW3-3 Model Training 
+- 經過直接inference可以發現，有一些entity是沒有抓出來的，所以我們會利用更新參數的方式來幫我們調整model到我們想要的狀態
+- 讓model能夠辨識出`成功大學(ORG)`
+
 ### Lab 5
 #### Sentiment analyze
 * HW5-1.py 
