@@ -2,7 +2,7 @@
 
 * [Similarity matrix](#Similarity-matrix)
 * [Lab3](#Lab-3)
-    * [HW3-1 Entity Pairs & Relation Extraction](#HW3-1-Entity-Pairs&Relation-Extraction)
+    * [HW3-1 Entity Pairs & Relation Extraction](#HW3-1-Entity-Pairs-&-Relation-Extraction)
     * [HW3-2 NER](#HW3-2-NER)
     * [HW3-3 Model Training ](#HW3-3-Model-Training)
 * [Lab 5](#Lab-5)
