@@ -1,5 +1,4 @@
-* [Similarity matrix](#Similarity matrix )
-* [Similarity matrix](###Similarity matrix )
+[Similarity matrix](#Similarity matrix )
 
 
 
