@@ -1,10 +1,9 @@
 ## Radio Chatbot
 
 #### Chat flow : 
-![image](https://user-images.githubusercontent.com/51444652/143198700-13c1a88e-b463-4994-99e4-0f6ebb32dcf2.png)
-#### How tot do ? 
-![image](https://user-images.githubusercontent.com/51444652/143198844-ca211138-a84b-4672-98fe-d8ea31a8bcdd.png)
+![image](https://user-images.githubusercontent.com/51444652/143199047-60975297-8a9a-4c49-8eca-a1c1801eb44a.png)
 
-![image](https://user-images.githubusercontent.com/51444652/143198376-ab36a526-7887-4c63-a8b5-bc8c9b7d5777.png)
-
+#### How to do ? 
+![image](https://user-images.githubusercontent.com/51444652/143198952-4cabc4e9-8bb8-460e-ada4-5daa3f6ada6d.png)
+![image](https://user-images.githubusercontent.com/51444652/143199003-8419c47b-0e6a-4653-aa98-9d18634a6b27.png)
 
